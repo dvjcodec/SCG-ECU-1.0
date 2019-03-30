@@ -2,7 +2,7 @@
 
 Standalone ECU
 
-![Board](board.png?raw=true "Board")
+![Board](board.jpg?raw=true "Board")
 
 ## Features:
 * Teensy 3.5 onboard
